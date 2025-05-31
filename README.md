@@ -1,4 +1,4 @@
-# 🧠 XPLICIT Forge — Système de Missions Collaboratives
+## 🧠 XPLICIT Forge — Système de Missions Collaboratives
 
 Bienvenue dans la **Forge** de XPLICIT.  
 Ici, chaque utilisateur peut **contribuer, voter, être récompensé**.  
