@@ -24,7 +24,7 @@ Chaque membre peut participer :
 - en **postant sa propre version de code**
 - en **discutant** via le `chat.log`
 - en **votant** pour la meilleure proposition
-- en recevant des **XPLT (points)** si sa solution est retenue
+- en recevant des **`XPLT`** si sa solution est retenue
 
 ---
 
@@ -38,7 +38,7 @@ Chaque membre peut participer :
 │ └── tes fichiers.ts
 ├── chat.log ← Historique des échanges
 ├── votes.json ← Système de validation
-├── xplt-rewards.json ← Répartition des gains
+├── `XPLT`-rewards.json ← Répartition des gains
 └── users.json ← Infos participants (role, date)
 
 
@@ -46,13 +46,13 @@ Chaque membre peut participer :
 
 ## ⬛ Comment participer
 
-### 1. Choisis une mission dans `/missions`
+### 🟪 1. Choisis une mission dans `/missions`
 
-### 2. Lis le `mission.md`
+### 🟪 2. Lis le `mission.md`
 
 Comprends bien ce qui est demandé, les contraintes, les fichiers à modifier.
 
-### 3. Dépose ta solution
+### 🟪 3. Dépose ta solution
 
 Utilise l’interface **commander** ou l’API :
 
@@ -62,21 +62,21 @@ POST /missions/:missionId/usercode/:pseudo/upload
 👉 Les fichiers sont enregistrés dans :  
 `/missions/<missionId>/usercode/<pseudo>/`
 
-### 4. Attends ou déclenche un **vote**
+### 🟪 4. Attends ou déclenche un **vote**
 
 Une fois plusieurs versions soumises, un vote est ouvert dans `votes.json`.
 
 ---
 
-## ⬛ Récompenses en $XPLT
+## ⬛ Récompenses en `XPLT`
 
 Si ta version est retenue, tu gagnes :
 
-- 🔹 des **points XPLT**
+- 🔹 des **`XPLT`**
 - 🔹 une **reconnaissance publique**
 - 🔹 un rang ou badge dans le réseau (si activé)
 
-> Les récompenses sont définies manuellement ou automatiquement dans `xplt-rewards.json`
+> Les récompenses sont définies manuellement ou automatiquement dans ``XPLT`-rewards.json`
 
 ---
 
@@ -93,7 +93,7 @@ Si ta version est retenue, tu gagnes :
 ## ⬛ Pourquoi ce système ?
 
 - ✅ Encourager les développeurs à proposer des solutions concurrentes
-- ✅ Favoriser les meilleurs sans favoritisme
+- ✅ Valoriser les meilleurs sans favoritisme
 - ✅ Récompenser le mérite réel, pas la visibilité
 - ✅ Accélérer la production via missions ciblées
 
