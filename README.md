@@ -1,4 +1,4 @@
-## 🧠 XPLICIT Forge — Système de Missions Collaboratives
+## ⬛ XPLICIT Forge — Système de Missions Collaboratives
 
 Bienvenue dans la **Forge** de XPLICIT.  
 Ici, chaque utilisateur peut **contribuer, voter, être récompensé**.  
@@ -6,9 +6,9 @@ C’est un système décentralisé de co-développement, basé sur la méritocra
 
 ---
 
-## 🧩 Concepts Clés
+## ⬛ Concepts Clés
 
-### 🔨 Mission
+### 🟪 Mission
 
 Une **mission** est une unité de travail ciblée : refonte, ajout de fonctionnalité, debug, spec, etc.
 
@@ -18,7 +18,7 @@ missions/
 └── 0001-nom-de-la-mission/
 
 
-### 👥 Contributeurs
+### 🟪 Contributeurs
 
 Chaque membre peut participer :
 - en **postant sa propre version de code**
@@ -28,7 +28,7 @@ Chaque membre peut participer :
 
 ---
 
-## 📂 Structure d’une mission
+## ⬛ Structure d’une mission
 
 0001-nom-de-la-mission/
 ├── mission.md ← Objectif, Contexte, Fichiers cibles
@@ -44,7 +44,7 @@ Chaque membre peut participer :
 
 ---
 
-## 🚀 Comment participer
+## ⬛ Comment participer
 
 ### 1. Choisis une mission dans `/missions`
 
@@ -68,7 +68,7 @@ Une fois plusieurs versions soumises, un vote est ouvert dans `votes.json`.
 
 ---
 
-## 🏅 Récompenses en $XPLT
+## ⬛ Récompenses en $XPLT
 
 Si ta version est retenue, tu gagnes :
 
@@ -80,7 +80,7 @@ Si ta version est retenue, tu gagnes :
 
 ---
 
-## 🛑 Règles de base
+## ⬛ Règles de base
 
 - Ne jamais modifier `payload/`
 - Ne jamais poster de code dans `mission.md`
@@ -90,7 +90,7 @@ Si ta version est retenue, tu gagnes :
 
 ---
 
-## 🧠 Pourquoi ce système ?
+## ⬛ Pourquoi ce système ?
 
 - ✅ Encourager les développeurs à proposer des solutions concurrentes
 - ✅ Favoriser les meilleurs sans favoritisme
@@ -99,7 +99,7 @@ Si ta version est retenue, tu gagnes :
 
 ---
 
-## 🔐 Authentification & Sécurité
+## ⬛ Authentification & Sécurité
 
 - Toutes les requêtes passent par **mTLS + JWT**
 - Chaque utilisateur est identifié de manière **cryptographique**
@@ -107,7 +107,7 @@ Si ta version est retenue, tu gagnes :
 
 ---
 
-## 📌 Statuts possibles des missions
+## ⬛ Statuts possibles des missions
 
 | Statut     | Signification                              |
 |------------|---------------------------------------------|

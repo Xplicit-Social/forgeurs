@@ -1,9 +1,17 @@
 # === GPG / Chiffrement ===
 encrypt.sh
 
+# === Git ignorable (fichiers cachés) ===
+.*
+!.gitignore
+
+# === Garder tous les .gitkeep ===
+!*/
+!**/.gitkeep
+
 # === Dépendances ===
 **/node_modules/
-**/bun.lockb
+**/bun.lock
 **/package-lock.json
 **/yarn.lock
 **/pnpm-lock.yaml
@@ -70,11 +78,3 @@ Thumbs.db
 **/.settings/
 **/.venv/
 **/__pycache__/
-
-# === Git ignorable (fichiers cachés) ===
-.*
-!.gitignore
-
-# === Garder tous les .gitkeep ===
-!*/
-!**/.gitkeep
