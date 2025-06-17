@@ -14,9 +14,11 @@ Une **mission** est une unité de travail ciblée : refonte, ajout de fonctionna
 
 Chaque mission vit dans un dossier unique :
 
+```plaintext
 missions/
 └── 0001-nom-de-la-mission/
 
+```
 
 ### 🟪 Contributeurs
 
@@ -30,6 +32,7 @@ Chaque membre peut participer :
 
 ## ⬛ Structure d’une mission
 
+```plaintext
 0001-nom-de-la-mission/
 ├── mission.md ← Objectif, Contexte, Fichiers cibles
 ├── payload/ ← Fichiers originaux (référence)
@@ -38,9 +41,9 @@ Chaque membre peut participer :
 │ └── tes fichiers.ts
 ├── chat.log ← Historique des échanges
 ├── votes.json ← Système de validation
-├── `XPLT`-rewards.json ← Répartition des gains
+├── xplt-rewards.json ← Répartition des gains
 └── users.json ← Infos participants (role, date)
-
+```
 
 ---
 
@@ -56,10 +59,10 @@ Comprends bien ce qui est demandé, les contraintes, les fichiers à modifier.
 
 Utilise l’interface **commander** ou l’API :
 
-POST /missions/:missionId/usercode/:pseudo/upload
+`POST /missions/:missionId/usercode/:pseudo/upload`
 
 
-👉 Les fichiers sont enregistrés dans :  
+Les fichiers sont enregistrés dans :  
 `/missions/<missionId>/usercode/<pseudo>/`
 
 ### 🟪 4. Attends ou déclenche un **vote**
@@ -76,7 +79,7 @@ Si ta version est retenue, tu gagnes :
 - 🔹 une **reconnaissance publique**
 - 🔹 un rang ou badge dans le réseau (si activé)
 
-> Les récompenses sont définies manuellement ou automatiquement dans ``XPLT`-rewards.json`
+> Les récompenses sont définies manuellement ou automatiquement dans `xplt-rewards.json`
 
 ---
 
