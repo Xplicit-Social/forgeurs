@@ -78,3 +78,5 @@ Thumbs.db
 **/.settings/
 **/.venv/
 **/__pycache__/
+
+!xchange/
