@@ -3,7 +3,7 @@ encrypt.sh
 
 # === Git ignorable (fichiers cachés) ===
 .*
-!.gitignore
+.gitignore
 
 # === Garder tous les .gitkeep ===
 !*/
@@ -80,3 +80,4 @@ Thumbs.db
 **/__pycache__/
 
 !xchange/
+!xchange/**
