@@ -1,13 +1,13 @@
 <!--
 {
-  "id": "0001-modele-mission",
+  "id": "#1[Dev][Modèle]",
   "secteur": "documentation",
   "niveau": "débutant",
   "votes": 5
 }
 -->
 
-# 📘 Mission 0001 — Modèle de mission
+# 📘 Mission #1 — [Modèle]
 
 Ce fichier sert de **référence officielle** pour structurer toutes les missions de La Forge.  
 Il définit les champs obligatoires, les fichiers attendus, et le déroulement complet d’une mission communautaire.
