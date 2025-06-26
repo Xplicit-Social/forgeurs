@@ -1,6 +1,6 @@
 <!--
 {
-  "id": "#1[Dev][Modèle]",
+  "id": "1-mission-modele",
   "secteur": "documentation",
   "niveau": "débutant",
   "votes": 5
