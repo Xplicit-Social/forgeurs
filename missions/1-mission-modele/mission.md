@@ -1,109 +1,86 @@
 <!--
 {
-  "id": "1-mission-modele",
+  "id": "1-modele-mission",
   "secteur": "documentation",
   "niveau": "débutant",
   "votes": 5
 }
 -->
 
-# 📘 Mission #1 — [Modèle]
+# 🪐 Mission 1 — Modèle de mission
 
-Ce fichier sert de **référence officielle** pour structurer toutes les missions de La Forge.  
-Il définit les champs obligatoires, les fichiers attendus, et le déroulement complet d’une mission communautaire.
-
----
-
-## 📁 Structure standard d’une mission
-
-
-
----
-
-missions/
-└── <id>-slug/
-├── mission.md ← description structurée de la mission (obligatoire)
-├── payload.md ← liste des fichiers techniques liés (liens proxy)
-├── votes.json ← votes communautaires (optionnel)
-├── rewards.json ← récompense prévue ou attribuée
-└── users.json ← forgeurs autorisés à intervenir
+Cette mission sert de **référence officielle** pour structurer toutes les missions de La Forge.
 
 ---
 
 ## 🎯 Objectif
 
-Chaque mission a un objectif unique, explicite et actionnable.  
-Il peut s’agir de :
-
-- créer un nouveau module ou outil,
-- corriger un problème précis,
-- documenter une fonctionnalité,
-- auditer ou refactorer un composant existant.
+Expliquer **comment formater et gérer une mission dans La Forge** :
+- Fichiers nécessaires
+- Fonctionnement des votes et discussions
+- Attribution des récompenses XPLT
 
 ---
 
-## 🧱 Contenu minimal du `mission.md`
+## 📁 Structure requise
 
-| Champ | Détail attendu |
-|-------|----------------|
-| `Objectif` | Ce que doit accomplir la mission |
-| `Contexte` | Pourquoi cette mission existe, d’où vient le besoin |
-| `Contraintes` | Outils autorisés, interdits, exigences techniques |
-| `Livrables` | Fichiers attendus, preuves, tests |
-| `Récompense` | Montant XPLT attribué ou en discussion |
-| `Processus` | Comment participer, voter, proposer une solution |
+mission/
+├── mission.md ← description textuelle de la mission
+├── meta.json ← votes, utilisateurs, XPLT
+└── chat.json ← discussion communautaire avec payload inline en <code>
 
 ---
 
-## 🧩 Description des fichiers associés
+## ⚙️ Processus de mission
 
-- [`payload.md`](/api/gitlab/proxy?path=missions/0001-modele-mission/payload.md)  
-  Liste et description des fichiers techniques utiles à cette mission (schémas, specs, exemples, etc.)
-
-- [`votes.json`](/api/gitlab/proxy?path=missions/0001-modele-mission/votes.json)  
-  Historique des votes et positions exprimées par les Forgeurs.
-
-- [`xplt-rewards.json`](/api/gitlab/proxy?path=missions/0001-modele-mission/xplt-rewards.json)  
-  Répartition de la récompense prévue ou finale (en XPLT).
-
-- [`users.json`](/api/gitlab/proxy?path=missions/0001-modele-mission/users.json)  
-  Pseudos ou empreintes des forgeurs autorisés à interagir (édition, vote, validation).
+1️⃣ **Mission créée par La Forge** dans le dépôt  
+2️⃣ Discussion via le **chat intégré** (`chat.json`)  
+3️⃣ Votes enregistrés dans **`meta.json`**  
+4️⃣ Réalisation par **les Initiés**  
+5️⃣ Attribution de la **récompense XPLT** dans `meta.json`  
+6️⃣ Mission **close et archivée**, consultable publiquement
 
 ---
 
-## 🛠 Déroulement d'une mission
+## 💰 Récompense
 
-1. 🧱 **Mission proposée par La Forge**  
-   → via dépôt Git `missions/<id>/`
-
-2. 💬 **Discussion communautaire**  
-   → via chat intégré à la page de mission
-
-3. 🧠 **Votes ouverts dans `votes.json`**  
-   → chaque forgeur s’exprime avec justification
-
-4. 🛠 **Merge Requests autorisées**  
-   → si la mission est ouverte à contributions
-
-5. ✅ **Validation + récompense**  
-   → via commit dans `xplt-rewards.json`
+Une mission peut inclure :
+- **Bounty XPLT fixe** selon la complexité
+- Répartition entre plusieurs contributeurs par vote
+- Bonus si la mission est validée sans correction
 
 ---
 
-## 🔐 Règle actuelle
+## 👥 Participation
 
-Aucune mission ne peut être soumise librement.  
-👉 **Elles sont exclusivement proposées par l'équipe** au lancement du projet.
-
----
-
-## 🔗 Accès rapide
-
-- [Lire le `payload.md`](payload.md)
-- [Voir les votes](votes.json)
-- [Récompense prévue](xplt-rewards.json)
+🚫 **Pas de propositions externes.**  
+✅ Seules les missions créées par **La Forge** sont valides.
 
 ---
 
-Ce fichier fait office de **gabarit de référence**.  
-Toute mission future doit en dériver ou s’y conformer.
+## 💬 Discussion
+
+Les discussions se font dans le **chat intégré**.  
+Pour proposer du code, utilisez des blocs :
+
+```html
+<code>
+votre code ici
+</code>
+
+📄 meta.json
+
+{
+  "votes": [
+    {
+      "user": "fond-alpha",
+      "vote": "yes",
+      "comment": "Mission de référence validée."
+    }
+  ],
+  "users": ["init-ali", "forg-liu"],
+  "xplt": {
+    "bounty": 100,
+    "distribution": []
+  }
+}
