@@ -1,9 +1,9 @@
 <!--
 {
+ "statut": "ouverte/controlée/fermée",
   "id": "1-modele-mission",
-  "secteur": "documentation",
-  "niveau": "débutant",
-  "votes": 5
+  "categorie": "dévellopement",
+  "xplt": 10
 }
 -->
 
