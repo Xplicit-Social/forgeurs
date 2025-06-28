@@ -1,8 +1,8 @@
 <!--
 {
- "statut": "🟩",
+ "statut": "🟩 Ouverte",
   "id": "1-modele-mission",
-  "secteur": "dévellopement",
+  "secteur": "Dévellopement",
   "xplt": 10
 }
 -->
