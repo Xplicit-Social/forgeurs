@@ -1,6 +1,6 @@
 <!--
 {
- "statut": "ouverte/controlée/fermée",
+ "statut": "ouverte",
   "id": "1-modele-mission",
   "categorie": "dévellopement",
   "xplt": 10
