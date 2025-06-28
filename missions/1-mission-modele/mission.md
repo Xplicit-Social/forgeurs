@@ -2,7 +2,7 @@
 {
  "statut": "ouverte",
   "id": "1-modele-mission",
-  "categorie": "dévellopement",
+  "secteur": "dévellopement",
   "xplt": 10
 }
 -->
