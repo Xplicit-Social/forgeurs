@@ -1,9 +1,9 @@
 <!--
 {
   "id": "1@[mission]-modele",
-  "secteur": "Dévellopement",
+  "secteur": "devellopement",
   "xplt": 10,
-  "statut": "🟩 Ouverte"
+  "statut": "ouverte"
 }
 -->
 
