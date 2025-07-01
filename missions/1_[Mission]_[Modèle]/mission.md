@@ -1,9 +1,9 @@
 <!--
 {
-  "id": "1_[mission]_[modele]",
+  "id": "1_[Mission]_[Modèle]",
   "secteur": "gestion",
   "xplt": 10,
-  "statut": "attente"
+  "statut": "fermée"
 }
 -->
 
