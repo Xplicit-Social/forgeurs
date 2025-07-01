@@ -1,6 +1,6 @@
 <!--
 {
-  "id": "[1]@[mission]-[modele]",
+  "id": "1_[mission]_[modele]",
   "secteur": "gestion",
   "xplt": 10,
   "statut": "attente"
