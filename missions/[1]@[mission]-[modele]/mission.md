@@ -1,9 +1,9 @@
 <!--
 {
-  "id": "1@[mission]-modele",
-  "secteur": "devellopement",
+  "id": "[1]@[mission]-[modele]",
+  "secteur": "gestion",
   "xplt": 10,
-  "statut": "ouverte"
+  "statut": "attente"
 }
 -->
 
