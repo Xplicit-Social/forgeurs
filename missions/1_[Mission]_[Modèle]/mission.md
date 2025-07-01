@@ -1,7 +1,7 @@
 <!--
 {
   "id": "1_[Mission]_[Modèle]",
-  "secteur": "gestion",
+  "secteur": "legislation",
   "xplt": 10,
   "statut": "fermée"
 }
