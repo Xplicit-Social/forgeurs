@@ -20,8 +20,7 @@ Les Badges valorisent le parcours et permettent aux autres de situer la progress
 Extension .svg obligatoire minimum 512px X 512px -> résolution 300dpi 
 
 ## Récompense
-Unique ou à Partager :
-### 2 000 XPLT
+Unique ou à Partager : ### 2 000 XPLT
 
 ## Participation
 Collaboration autorisée
