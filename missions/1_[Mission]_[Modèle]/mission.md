@@ -22,9 +22,7 @@ mission/
 ├── mission.md ← description textuelle de la mission
 ├── votes.json ← votes utilisateurs
 ├── xplt.json ← votes utilisateurs
-└── chat.json ← discussion communautaire avec payload inline dans balise code
-
-</code>```
+└── chat.json ← discussion communautaire avec payload inline dans la balise </code>```
 
 ## Processus de mission
 1️⃣  **Mission créée par La Forge** dans le dépôt  
