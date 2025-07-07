@@ -51,7 +51,6 @@ Les discussions se font dans le **chat intégré**.
 Pour proposer du code, utilisez des blocs :
 
 ```css
-
 votre code ici
 
 ```
