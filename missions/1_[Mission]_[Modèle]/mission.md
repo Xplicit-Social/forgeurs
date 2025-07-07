@@ -27,7 +27,7 @@ mission/
 
 ## Processus de mission
 1️⃣  **Mission créée par La Forge** dans le dépôt  
-2️⃣  Discussion via le **chat intégré** (`chat.json`)  
+2️⃣  Discussion via le **chat intégré** `chat.json`  
 3️⃣  Votes enregistrés dans **`votes.json`**  
 4️⃣  Réalisation par **les Initiés**  
 5️⃣  Attribution de la **récompense XPLT** dans `xplt.json`  
