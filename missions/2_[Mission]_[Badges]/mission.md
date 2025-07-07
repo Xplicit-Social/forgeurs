@@ -7,23 +7,23 @@
 }
 -->
 
-# 🟪 Mission 2 — Modèle Création des Badges
+# Mission 2 — Modèle Création des Badges
 
 Central utilise pour le moment les badges GitHub, crées-en des nouveaux, juste à Nous !
 
-## 🟪 Objectif
+## Objectif
 
 Les Badges valorisent le parcours et permettent aux autres de situer la progression d'un membre :
 - Ils doivent rappeler l'univers du gaming
 - Ils doivent être cool
 - Il en faut 20 pour prévoir l'avenir
 
-## 🟪 Structure requise
+## Structure requise
 
 Extension .svg obligatoire minimum 512px X 512px -> résolution 300dpi 
 
 
-## 🟪 Récompense
+## Récompense
 
 Unique ou à Partager :
 
@@ -31,13 +31,13 @@ Unique ou à Partager :
 
 ---
 
-## 🟪 Participation
+## Participation
 
 Collaboration autorisée
 
 ---
 
-## 🟪 Discussion
+## Discussion
 
 Les discussions se font dans le **chat intégré**.  
 Pour proposer du code, utilisez des blocs :
