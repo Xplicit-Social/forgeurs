@@ -1,7 +1,7 @@
 <!--
 {
   "id": "2_[Mission]_[Badges]",
-  "secteur": "legislation",
+  "secteur": "devellopement",
   "xplt": 2000,
   "statut": "ouverte"
 }
@@ -13,7 +13,7 @@ Central utilise pour le moment les badges GitHub, crées-en des nouveaux, juste 
 
 ## 🟪 Objectif
 
-Les Badges valorisent la progression et permettent aux autres de situer la progression d'un membre :
+Les Badges valorisent le parcours et permettent aux autres de situer la progression d'un membre :
 - Ils doivent rappeler l'univers du gaming
 - Ils doivent être cool
 - Il en faut 20 pour prévoir l'avenir
