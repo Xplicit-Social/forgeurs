@@ -7,7 +7,7 @@
 }
 -->
 
-# Mission 2 — Création des Badges
+# Mission #2 — Création Badges
 Central utilise pour le moment les badges GitHub, crées-en des nouveaux, juste à Nous !
 
 ## Objectif

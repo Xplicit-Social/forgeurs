@@ -7,7 +7,7 @@
 }
 -->
 
-# Mission 1 — Modèle de mission
+# Mission #1 — Modèle de Mission
 Cette mission sert de **référence officielle** pour structurer toutes les missions de La Forge.
 
 ## Objectif
@@ -34,22 +34,21 @@ mission/
 6️⃣  Mission **close et archivée**, consultable publiquement
 
 ## Récompense
+
+### 0 XPLT
+
 Une mission peut inclure :
 - **Bounty XPLT fixe** selon la complexité
 - Répartition entre plusieurs contributeurs par vote
 - Bonus si la mission est validée sans correction
 
-### 0 XPLT
-
 ## Participation
-**Pas de propositions externes.**  
+**Pas encore de propositions de missions externes.**  
 Seules les missions créées par **La Forge** sont valides.
 
 
 ## Discussion
 Les discussions se font dans le **chat intégré**.  
-Pour proposer du code, utilisez des blocs :
-
-`votre code ici`
+Pour proposer du code, utilisez des blocs `<code>votre code ici</code>`
 
 Bonne chance ! 
