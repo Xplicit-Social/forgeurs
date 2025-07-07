@@ -17,12 +17,12 @@ Expliquer **comment formater et gérer une mission dans La Forge** :
 - Attribution des récompenses XPLT
 
 ## Structure requise
-```css<code>
+```css
 mission/
 ├── mission.md ← description textuelle de la mission
 ├── votes.json ← votes utilisateurs
 ├── xplt.json ← votes utilisateurs
-└── chat.json ← discussion communautaire avec payload inline dans la balise </code>```
+└── chat.json ← discussion communautaire avec payload inline dans la balise
 
 ## Processus de mission
 1️⃣  **Mission créée par La Forge** dans le dépôt  
@@ -47,8 +47,8 @@ Seules les missions créées par **La Forge** sont valides.
 Les discussions se font dans le **chat intégré**.  
 Pour proposer du code, utilisez des blocs :
 
-```css<code>
+```css
 votre code ici
-</code>```
+
 
 Bonne chance si vous l'acceptez 
