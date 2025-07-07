@@ -39,7 +39,7 @@ Une mission peut inclure :
 - Répartition entre plusieurs contributeurs par vote
 - Bonus si la mission est validée sans correction
 
-### -- XPLT
+### 0 XPLT
 
 ## Participation
 **Pas de propositions externes.**  
@@ -51,7 +51,9 @@ Les discussions se font dans le **chat intégré**.
 Pour proposer du code, utilisez des blocs :
 
 ```css
+
 votre code ici
+
 ```
 
 Bonne chance si vous l'acceptez 
