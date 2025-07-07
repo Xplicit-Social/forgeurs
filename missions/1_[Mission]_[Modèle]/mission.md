@@ -50,9 +50,6 @@ Seules les missions créées par **La Forge** sont valides.
 Les discussions se font dans le **chat intégré**.  
 Pour proposer du code, utilisez des blocs :
 
-```css
-votre code ici
+`votre code ici`
 
-```
-
-Bonne chance si vous l'acceptez 
+Bonne chance ! 
