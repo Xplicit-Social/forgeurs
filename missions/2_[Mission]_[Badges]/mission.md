@@ -7,7 +7,7 @@
 }
 -->
 
-# Mission 2 — Modèle Création des Badges
+# Mission 2 — Création des Badges
 
 Central utilise pour le moment les badges GitHub, crées-en des nouveaux, juste à Nous !
 
@@ -27,7 +27,7 @@ Extension .svg obligatoire minimum 512px X 512px -> résolution 300dpi
 
 Unique ou à Partager :
 
-2 000 XPLT
+### 2 000 XPLT
 
 ---
 
@@ -42,11 +42,7 @@ Collaboration autorisée
 Les discussions se font dans le **chat intégré**.  
 Pour proposer du code, utilisez des blocs :
 
-```html
-
-<code>
+```html<code>
 votre code ici
-</code>
-
-```
+</code>```
 Bonne chance si vous l'acceptez !
