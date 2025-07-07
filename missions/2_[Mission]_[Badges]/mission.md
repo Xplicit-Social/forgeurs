@@ -30,8 +30,6 @@ Collaboration autorisée
 Les discussions se font dans le **chat intégré**.  
 Pour proposer du code, utilisez des blocs :
 
-```html<code>
-votre code ici
-</code>```
+```html<code> Ton code ici </code>```
 
 Bonne chance si vous l'acceptez !

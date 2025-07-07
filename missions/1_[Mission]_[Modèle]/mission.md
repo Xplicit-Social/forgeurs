@@ -28,9 +28,9 @@ mission/
 ## Processus de mission
 1️⃣  **Mission créée par La Forge** dans le dépôt  
 2️⃣  Discussion via le **chat intégré** (`chat.json`)  
-3️⃣  Votes enregistrés dans **`meta.json`**  
+3️⃣  Votes enregistrés dans **`votes.json`**  
 4️⃣  Réalisation par **les Initiés**  
-5️⃣  Attribution de la **récompense XPLT** dans `meta.json`  
+5️⃣  Attribution de la **récompense XPLT** dans `xplt.json`  
 6️⃣  Mission **close et archivée**, consultable publiquement
 
 ## Récompense
@@ -38,6 +38,8 @@ Une mission peut inclure :
 - **Bounty XPLT fixe** selon la complexité
 - Répartition entre plusieurs contributeurs par vote
 - Bonus si la mission est validée sans correction
+
+### -- XPLT
 
 ## Participation
 **Pas de propositions externes.**  
