@@ -23,6 +23,7 @@ mission/
 ├── votes.json ← votes utilisateurs
 ├── xplt.json ← votes utilisateurs
 └── chat.json ← discussion communautaire avec payload inline dans balise code
+
 </code>```
 
 ## Processus de mission
