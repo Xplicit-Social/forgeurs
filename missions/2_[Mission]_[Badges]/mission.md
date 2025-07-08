@@ -2,7 +2,7 @@
 {
   "id": "2_[Mission]_[Badges]",
   "secteur": "devellopement",
-  "xplt": 2000,
+  "xplt": 1000,
   "statut": "ouverte"
 }
 -->
@@ -21,7 +21,7 @@ Extension .svg obligatoire minimum 512px X 512px -> résolution 300dpi
 
 ## Récompense
 
-### 2 000 XPLT
+### 1 000 XPLT
 
 ## Participation
 Collaboration autorisée
