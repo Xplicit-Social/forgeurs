@@ -1,9 +1,9 @@
 <!--
 {
-  "id": "1_[Mission]_[Modèle]",
-  "secteur": "legislation",
-  "xplt": 10,
-  "statut": "fermée"
+  "id": "9_[Mission]_[Versionning]",
+  "secteur": "devellopement",
+  "xplt": 1000,
+  "statut": "ouverte"
 }
 -->
 

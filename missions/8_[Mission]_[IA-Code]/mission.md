@@ -1,9 +1,9 @@
 <!--
 {
-  "id": "1_[Mission]_[Modèle]",
-  "secteur": "legislation",
-  "xplt": 10,
-  "statut": "fermée"
+  "id": "8_[Mission]_[Voluptis]",
+  "secteur": "ia",
+  "xplt": 750,
+  "statut": "ouverte"
 }
 -->
 

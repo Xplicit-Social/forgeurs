@@ -1,9 +1,9 @@
 <!--
 {
-  "id": "1_[Mission]_[Modèle]",
+  "id": "6_[Mission]_[Gnosis Pay Card]",
   "secteur": "legislation",
-  "xplt": 10,
-  "statut": "fermée"
+  "xplt": 5000,
+  "statut": "ouverte"
 }
 -->
 

@@ -1,9 +1,9 @@
 <!--
 {
-  "id": "1_[Mission]_[Modèle]",
-  "secteur": "legislation",
-  "xplt": 10,
-  "statut": "fermée"
+  "id": "10_[Mission]_[Serveur SimpleX]",
+  "secteur": "communication",
+  "xplt": 1500,
+  "statut": "ouverte"
 }
 -->
 
