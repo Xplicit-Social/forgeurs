@@ -1,0 +1,2 @@
+{"ts":"2025-08-11T23:59:59.000Z","balance":100}
+{"ts":"2025-08-11T21:48:12.790Z","ymd":"2025-08-11","tx":1754948892790,"op":"mint","from":"source","to":"reserve","amount":1,"initiator":"init-bob","ref":null,"note":"[auto-mint]","version":1,"account":"source","leg":"debit","delta":-1,"sig":"9c5802fefc68bdf9b26552f70ac4d38c52d1a796be05979858c7654a29fe0001"}
