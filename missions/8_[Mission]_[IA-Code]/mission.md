@@ -7,11 +7,11 @@
 }
 -->
 
-# Mission #8 — Faire évoluer Volumtis
+# Mission #8 — Faire évoluer Voluptis
 Amélioré l'intégration Groq
 
 ## Objectif
-Fluidifier et affiner Volumtis IA
+Fluidifier et affiner Voluptis IA
 
 ## Structure requise
 - MAJ Prompt
