@@ -8,7 +8,7 @@
 -->
 
 # Mission #4 — Mise en place BTCserver
-Crée une vidéo de promo Du Central et de La Forge
+Mise en place de BTCServer avec support XMR
 
 ## Objectif
 Supprimer les third-party : Plisio / NowPayement
